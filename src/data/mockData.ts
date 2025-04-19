@@ -66,7 +66,7 @@ export const HOTELS: Hotel[] = [
     images: [
       'https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       'https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80',
-      'https://images.unsplash.com/photo-1601565415267-71ensj2ddf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80'
+      'https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg'
     ],
     rating: 4.5,
     reviewCount: 132,
@@ -116,7 +116,7 @@ export const HOTELS: Hotel[] = [
     images: [
       'https://images.unsplash.com/photo-1540304453527-62f979142a17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
       'https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2025&q=80',
-      'https://images.unsplash.com/photo-1631157769386-fe27e515b3a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1972&q=80'
+      'https://images.pexels.com/photos/271643/pexels-photo-271643.jpeg'
     ],
     rating: 4.4,
     reviewCount: 95,
@@ -335,21 +335,21 @@ export const DESTINATIONS = [
     id: '1',
     name: 'Damascus',
     description: 'The historic capital city, one of the oldest continuously inhabited cities in the world.',
-    image: 'https://images.unsplash.com/photo-1548091344-306d5252c442?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+    image: 'https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg',
     hotelCount: 12
   },
   {
     id: '2',
     name: 'Aleppo',
     description: 'A major cultural center with stunning medieval architecture and vibrant markets.',
-    image: 'https://images.unsplash.com/photo-1667653221790-937ed46c062b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+    image: 'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
     hotelCount: 8
   },
   {
     id: '3',
     name: 'Palmyra',
     description: 'Home to the magnificent ruins of an ancient city that was once one of the most important cultural centers.',
-    image: 'https://images.unsplash.com/photo-1591497599880-aecb6f01308e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+    image: 'https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg',
     hotelCount: 4
   },
   {
